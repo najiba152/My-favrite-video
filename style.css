@@ -18,7 +18,7 @@ div{
     border-style: solid;
    width: 600px;
    height: 400px;
-   margin-left: 200px;
+   margin-left: 400px;
    margin-top: 100px;
    
    color: rgb(245, 226, 200);
@@ -46,7 +46,7 @@ button{
    
     margin-top: 20px;
    color: #f8fcfa;
-   margin-left: 450px;
+   margin-left: 650px;
    border-radius: 10px;
    background-color: #82f391;
    width: 100px;
@@ -55,12 +55,12 @@ button{
 }
 
 .ab{
-    width: 50%;
+    width: 40%;
     height: 50%;
     margin-bottom: 50px;
     margin-top: 20px;
     text-align: center;
-     margin-left: 250px;
+     margin-left: 450px;
      background-color: #f2f7f2;
      font-family: "Sofia", sans-serif; 
 
